@@ -5,7 +5,7 @@ https://developers.google.com/analytics/devguides/reporting/core/v4/
 Query explorer:
 https://ga-dev-tools.appspot.com/query-explorer/
 
-The free version:  
+The free version (calculate the probability using this data, Markov):  
 – sort ga:pageviews    
 – max-results 10000  
 – dimensions ga:pagePath,ga:previousPagePath  
