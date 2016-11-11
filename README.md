@@ -2,6 +2,9 @@
 Google Analytics Reporting API v4 Test
 https://developers.google.com/analytics/devguides/reporting/core/v4/
 
+Query explorer:
+https://ga-dev-tools.appspot.com/query-explorer/
+
 # Gradle dependencies
 	compile 'com.google.apis:google-api-services-analyticsreporting:v4-rev12-1.22.0'
 	compile group: 'com.google.api-client', name: 'google-api-client-gson', version: '1.22.0'
