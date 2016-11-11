@@ -6,8 +6,8 @@ Query explorer:
 https://ga-dev-tools.appspot.com/query-explorer/
 
 The free version:
-– sort ga:pageviews
-– max-results 10000
+– sort ga:pageviews    
+– max-results 10000  
 – dimensions ga:pagePath,ga:previousPagePath
 – start-date 2016-01-01
 – start-index 1
